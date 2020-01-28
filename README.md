@@ -1,2 +1,2 @@
 # CurrentDateAndTime
-Print Current Data and Time in C
+Print Current Date and Time in C
